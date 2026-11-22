@@ -5,3 +5,6 @@ version: 1.0.0
 ---
 # K8s Helper
 Manages Pods, Deployments, and Helm Releases.
+
+## Updated by Node B
+Version 2.0 multi-host test patch.
